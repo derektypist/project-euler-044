@@ -35,3 +35,26 @@ The function `pentagonNumbers()` returns a number.
 ## Features
 
 Allows the user to show or hide the solution to the problem as described in [Project Euler 044](https://projecteuler.net/problem=44).
+
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Bootstrap 5.2.2 and Google Fonts.
+
+## Testing
+
+Ensure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-044) at the main branch.
+
+## Credits
+
+### Content
+
+Written by me.
+
+### Acknowledgements
+
+- [Project Euler](https://www.projecteuler.net)
+- [FreeCodeCamp](https://www.freecodecamp.org)
