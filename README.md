@@ -31,3 +31,7 @@ User Stories on function `pentagonNumbers()` is taken from [FreeCodeCamp - ]
 **Information Architecture**
 
 The function `pentagonNumbers()` returns a number.
+
+## Features
+
+Allows the user to show or hide the solution to the problem as described in [Project Euler 044](https://projecteuler.net/problem=44).
