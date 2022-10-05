@@ -26,7 +26,7 @@ As a user, I expect the function `pentagonNumbers()` to return a number.
 
 As a user, I expect the function `pentagonNumbers()` to return 5482660.
 
-User Stories on function `pentagonNumbers()` is taken from [FreeCodeCamp - ]
+User Stories on function `pentagonNumbers()` is taken from [FreeCodeCamp - Coding Interview Prep - Project Euler 044](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-44-pentagon-numbers)
 
 **Information Architecture**
 
