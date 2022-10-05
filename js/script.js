@@ -15,7 +15,7 @@ function isPentagonal(n) {
 /*
     Function to Return the minimum difference of two pentagonal
     numbers Pi and Pj such that Pi + Pj is pentagonal and
-    Pj - Pi is pentagonal.
+    |Pj - Pi| is pentagonal.
     pentagonNumbers() returns 5482660.
 
 */
